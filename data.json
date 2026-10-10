@@ -1,1 +1,267 @@
-{"guncelleme": "", "yemek": {}, "duyurular": []}
+{
+ "guncelleme": "2026-10-10T09:47:15+00:00",
+ "yemek": {
+  "ogrenci": {
+   "ogle": {
+    "2026-10-12": "Etli Kuru Fasülye\nSultan Çorba (1,3,4)\nİç Pilav (11)\nKarışık Turşu (12)",
+    "2026-10-13": "Tantuni (1)\nKırmızı Mercimek Çorba (1)\nSüt Helvası (1,4)\nAyran (4)",
+    "2026-10-14": "Macar Gulaş (1)\nTutmaç Çorba (1,3,4)\nBiber Borani (4)\nŞekerpare (1,3,4,11)",
+    "2026-10-15": "Etli Karnıyarık\nEzogelin Çorba (1)\nMısırlı Pirinç Pilavı\nCacık (4)",
+    "2026-10-16": "İnegöl Köfte / Piyaz (1,3,12)\nYayla Çorba (1,3,4)\nPatlıcanlı Bulgur Pilavı (1)\nBrowni (1,3)",
+    "2026-10-01": "Etli Biber Dolma / Yoğurt (4)\nSütlü Domates Çorba (1,4)\nPeynirli Puf Böreği (4,3,1)\nVişne Komposto",
+    "2026-10-02": "Sebzeli Yeşil Mercimek\nDüğün Çorba (1,3,4)\nPiliç Etli Bulgur Pilavı (1)\nHavuç Tarator (4,11)",
+    "2026-10-05": "Sebzeli Barbunya\nRomen Çorba (1,3,4,12)\nBuhara Pilavı (11)\nYoğurt (4)",
+    "2026-10-06": "Aynalı Kebap (4)\nDomatesli Şehriye Çorba (1)\nAnkara Burma (11,4,1)\nBulgur Pilavı (1)",
+    "2026-10-07": "Domates - Biberli Tavuk Pirzola\nKırmızı Mercimek Çorba (1)\nArabiata Soslu Makarna (1)\nAyran (4)",
+    "2026-10-08": "Terbiyeli Köfte (1,3,4)\nTarhana Çorba (1,4)\nPeynirli Makarna (1,4)\nArmut",
+    "2026-10-09": "Kıymalı Kabak Sandal Sefası (4)\nEzogelin Çorba (1)\nCevizli Erişte (1,11)\nFırın Sütlaç (1,3,4,11)",
+    "2026-10-19": "Fırın Tavuk Baget\nKöylü Çorba (1,3,4)\nYoğurtlu Mantı (1,4)\nElma",
+    "2026-10-20": "Ankara Tava\nKırmızı Mercimek Çorba (1)\nIspanak Borani (4)\nTrileçe (1,3,4)",
+    "2026-10-21": "Etli Türlü (yaz)\nPeskutan Çorba (1,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nHavuçlu Cevizli Kek (11,4,3,1)",
+    "2026-10-22": "İslim Köfte / Patates Kızartması (1,3)\nNaneli Yoğurt Çorba (1,3,4)\nSalçalı Bulgur Pilavı (1)\nAyran (4)",
+    "2026-10-23": "Etli Nohut\nEzogelin Çorba (1)\nSade Pirinç Pilavı\nYoğurt (4)",
+    "2026-10-26": "İskender Kebap (1)\nKırmızı Mercimek Çorba (1)\nYoğurt (4)\nMozaik Pasta (1,4)",
+    "2026-10-27": "Çanak Köfte (1,3,4)\nEzogelin Çorba (1)\nYoğurtlu Makarna (1,4)\nMevsim Salata",
+    "2026-10-28": "Fırın Karnabahar\nTavuksuyu Çorba (1,3,4)\nPeynirli Gül Böreği (1,3,4)\nKarışık Komposto",
+    "2026-10-29": "RESMİ TATİL",
+    "2026-10-30": "Yayla Soslu Piliç (1,4)\nToyga Çorba (1,4)\nSebzeli Pirinç Pilavı\nAyran (4)"
+   },
+   "aksam": {
+    "2026-10-12": "İskender Kebap (1)\nKırmızı Mercimek Çorba (1)\nYoğurt (4)\nMozaik Pasta (1,4)",
+    "2026-10-13": "Kıymalı Yeşil Mercimek\nDüğün Çorba (1,3,4)\nErişte (1)\nHavuç Tarator (4,11)",
+    "2026-10-14": "Kıymalı Fırın Karnabahar\nTavuksuyu Çorba (1,3,4)\nPeynirli Gül Böreği (1,3,4)\nKarışık Komposto",
+    "2026-10-15": "Çanak Köfte (1,3,4)\nToyga Çorba (1,4)\nYoğurtlu Makarna (1,4)\nMevsim Salata",
+    "2026-10-16": "Yayla Soslu Piliç (1,4)\nEzogelin Çorba (1)\nSebzeli Pirinç Pilavı\nAyran (4)",
+    "2026-10-01": "Macar Gulaş (1)\nTutmaç Çorba (1,3,4)\nBiber Borani (4)\nŞekerpare (1,3,4,11)",
+    "2026-10-02": "Etli Karnıyarık\nEzogelin Çorba (1)\nMısırlı Pirinç Pilavı\nCacık (4)",
+    "2026-10-05": "Peskutan Çorba (1,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nHavuçlu Cevizli Kek (11,4,3,1)\nAvcı Kebabı",
+    "2026-10-06": "İslim Köfte / Patates Kızartması (1,3)\nNaneli Yoğurt Çorba (1,3,4)\nPeynirli Kuskus (1,4)\nAyran (4)",
+    "2026-10-07": "Köylü Çorba (1,3,4)\nYoğurtlu Mantı (1,4)\nElma\nEtli Türlü (yaz)",
+    "2026-10-08": "Ankara Tava\nKırmızı Mercimek Çorba (1)\nIspanak Borani (4)\nTrileçe (1,3,4)",
+    "2026-10-09": "Etli Nohut\nDüğün Çorba (1,3,4)\nSade Pirinç Pilavı\nYoğurt (4)",
+    "2026-10-19": "Aynalı Kebap (4)\nTerbiyeli Tel Şehriye Çorba (1,3,4)\nBulgur Pilavı (1)\nTrabzon Baklavası (11,4,1)",
+    "2026-10-20": "Kıymalı Kabak Sandal Sefası (4)\nEzogelin Çorba (1)\nCevizli Erişte (1,11)\nArmut",
+    "2026-10-21": "Domates - Biberli Tavuk Pirzola\nKırmızı Mercimek Çorba (1)\nArabiata Soslu Makarna (1)\nAyran (4)",
+    "2026-10-22": "Sebzeli Barbunya\nRomen Çorba (1,3,4,12)\nBuhara Pilavı (11)\nYoğurt (4)",
+    "2026-10-23": "Terbiyeli Köfte (1,3,4)\nTarhana Çorba (1,4)\nPeynirli Makarna (1,4)\nFırın Sütlaç (1,3,4,11)",
+    "2026-10-26": "Etli Kuru Fasülye\nDüğün Çorba (1,3,4)\nİç Pilav (11)\nKarışık Turşu (12)",
+    "2026-10-27": "Tantuni (1)\nTerbiyeli Tel Şehriye Çorba (1,3,4)\nSüt Helvası (1,4)\nAyran (4)",
+    "2026-10-28": "RESMİ TATİL",
+    "2026-10-29": "RESMİ TATİL",
+    "2026-10-30": "İnegöl Köfte / Piyaz (1,3,12)\nKırmızı Mercimek Çorba (1)\nPatlıcanlı Bulgur Pilavı (1)\nBrowni (1,3)"
+   }
+  },
+  "vejetaryen": {
+   "ogle": {
+    "2026-10-12": "Tarhana Çorba (1,4)\nSebzeli Kuru Fasülye\nPeynirli Kabak Sefası (4)\nİç Pilav (11)\nKarışık Turşu (12)\nYoğurt (4)",
+    "2026-10-13": "Kırmızı Mercimek Çorba (1)\nNohut Salatası\nZeytinyağlı Bamya\nKısır (1,12)\nMevsim Salata\nSüt Helvası (1,4)",
+    "2026-10-14": "Tutmaç Çorba (1,3,4)\nSebzeli Kuru Börülce\nFırında Sebze Kızartması\nPeynirli Makarna (1,4)\nBiber Borani (4)\nŞekerpare (1,3,4,11)",
+    "2026-10-15": "Ezogelin Çorba (1)\nFalafel (1,3,4,14)\nPatlıcan İmambayıldı\nMısırlı Pirinç Pilavı\nCacık\nMeyve",
+    "2026-10-16": "Yayla Çorba (1,3,4)\nPiyaz (12)\nZeytinyağlı Kabak Kalye\nPatlıcanlı Bulgur Pilavı\nRus Salatası (4,12)\nBrowni (1,3)",
+    "2026-10-01": "Sütlü Domates Çorba (1,4)\nKuru Börülce Salatası\nZeytinyağlı Biber Dolma (11)\nPeynirli Puf Böreği (4,3,1)\nMarul Havuç Salata\nVişne Komposto",
+    "2026-10-02": "Kremalı Mantar Çorba (1,4)\nSebzeli Yeşil Mercimek\nFırın Patates\nBulgur Pilavı (1)\nHavuç Tarator (4,11)\nMeyve",
+    "2026-10-05": "Zeytinyağlı Brokoli - Havuç\nPancar Salata (12)\nTutmaç Çorba (1,3,4)\nSebzeli Barbunya\nKısır (1,12)\nYoğurt (4)",
+    "2026-10-06": "Domatesli Şehriye Çorba (1)\nKuru Börülce Salatası\nZeytinyağlı Ispanak / Yoğurt (4)\nBulgur Pilavı (1)\nAkdeniz Salata\nAnkara Burma (11,4,1)",
+    "2026-10-07": "Zerdeçallı Karnabahar - Havuç\nKabak Mücver (1,3)\nKırmızı Mercimek Çorba (1)\nSebzeli Kuru Fasülye\nArabiata Soslu Makarna (1)\nAyran (4)",
+    "2026-10-08": "Tarhana Çorba (1,4)\nYeşil Mercimek Salatası (12)\nZeytinyağlı Portakallı Kereviz (9)\nPeynirli Makarna (1,4)\nMevsim Salata\nMeyve",
+    "2026-10-09": "Ezogelin Çorba (1)\nVegan Fajita (12)\nZeytinyağlı Kabak Bayıldı\nCevizli Erişte (1,11)\nMütebbel (4,14)\nFırın Sütlaç (1,3,4,11)",
+    "2026-10-19": "Köylü Çorba (1,3,4)\nSebzeli Kuru Fasülye\nPatlıcan İmambayıldı\nYoğurtlu Makarna (1,4)\nHumus (14)\nMeyve",
+    "2026-10-20": "Kırmızı Mercimek Çorba (1)\nMantar Sote (12)\nZeytinyağlı Taze Fasülye\nKısır (1,12)\nIspanak Borani (4)\nTrileçe (1,3,4)",
+    "2026-10-21": "Kremalı Mantar Çorba (1,4)\nSebzeli Kuru Börülce\nZeytinyağlı Türlü\nArpa Şehriyeli Pirinç Pilavı (1)\nYoğurtlu Köz Biber Salata (4)\nHavuçlu Cevizli Kek (11,4,3,1)",
+    "2026-10-22": "Naneli Yoğurt Çorbası\nYeşil Mercimek Salatası (12)\nZeytinyağlı Portakallı Kereviz (9)\nSalçalı Bulgur Pilavı (1)\nKabak Mücver (1,3)\nAyran (4)",
+    "2026-10-23": "Ezogelin Çorba (1)\nSebzeli Nohut\nZeytinyağlı Enginar Dolma\nSade Pirinç Pilavı\nÇiğ Köfte / Marul (1)\nYoğurt (4)",
+    "2026-10-26": "Kırmızı Mercimek Çorba (1)\nKuru Börülce Salatası\nZeytinyağlı Bamya\nPeynirli Kalem Böreği (1,3,4)\nHaydari (4)\nMozaik Pasta (1,4)",
+    "2026-10-27": "Ezogelin Çorba (1)\nSebzeli Yeşil Mercimek\nPatlıcan İmambayıldı\nYoğurtlu Makarna (1,4)\nMevsim Salata\nMeyve",
+    "2026-10-28": "Kremalı Mantar Çorba (1,4)\nSebzeli Nohut\nFırın Karnabahar\nPeynirli Gül Böreği (1,3,4)\nYoğurtlu Cevizli Kereviz Salata (4,9,11)\nKarışık Komposto",
+    "2026-10-29": "RESMİ TATİL",
+    "2026-10-30": "Toyga Çorba (1,4)\nSebzeli Barbunya\nFırın Patates\nSebzeli Pirinç Pilavı\nMercimek Köfte / Marul (1)\nAyran (4)"
+   },
+   "aksam": {
+    "2026-10-12": "Kırmızı Mercimek Çorba (1)\nMantar Sote (12)\nZerdeçallı Karnabahar - Havuç\nPeynirli Kalem Böreği (1,3,4)\nIspanak Borani (4)\nMozaik Pasta (1,4)",
+    "2026-10-13": "Kremalı Mantar Çorba (1,4)\nSebzeli Yeşil Mercimek\nZeytinyağlı Brokoli - Havuç\nErişte (1)\nHavuç Tarator (4,11)\nMeyve",
+    "2026-10-14": "Tarhana Çorba (1,4)\nSebzeli Nohut\nFırın Karnabahar\nPeynirli Gül Böreği (1,3,4)\nMütebbel (4,14)\nKarışık Komposto",
+    "2026-10-15": "Toyga Çorba (1,4)\nBarbunya Pilaki\nZeytinyağlı Portakallı Kereviz (9)\nYoğurtlu Makarna (1,4)\nMevsim Salata\nTahin Helvası (14)",
+    "2026-10-16": "Ezogelin Çorba (1)\nVegan Fajita (12)\nZeytinyağlı Taze Fasülye\nSebzeli Pirinç Pilavı\nÇiğ Köfte / Marul (1)\nAyran (4)",
+    "2026-10-01": "Tutmaç Çorba (1,3,4)\nSebzeli Kuru Fasülye\nZeytinyağlı Enginar Dolma\nKısır (1,12)\nBiber Borani (4)\nMeyve",
+    "2026-10-02": "Ezogelin Çorba (1)\nFalafel (1,3,4,14)\nZeytinyağlı Türlü\nMısırlı Pirinç Pilavı\nCacık\nTahin Helvası (14)",
+    "2026-10-05": "Kremalı Mantar Çorba (1,4)\nNohut Tava\nZeytinyağlı Türlü\nArpa Şehriyeli Pirinç Pilavı (1)\nMor Rüya (4)\nHavuçlu Cevizli Kek (11,4,3,1)",
+    "2026-10-06": "Naneli Yoğurt Çorba (1,3,4)\nSebzeli Yeşil Mercimek\nPatlıcan İmambayıldı\nPeynirli Kuskus (1,4)\nMuhammara (11)\nAyran (4)",
+    "2026-10-07": "Köylü Çorba (1,3,4)\nMantar Sote (12)\nZeytinyağlı Enginar Dolma\nYoğurtlu Makarna Salatası (1,4,12)\nHerse\nMeyve",
+    "2026-10-08": "Kırmızı Mercimek Çorba (1)\nPiyaz (12)\nZeytinyağlı Bezelye\nPeynirli Su Böreği (1,3,4)\nTrileçe (1,3,4)",
+    "2026-10-09": "Tutmaç Çorba (1,3,4)\nSebzeli Nohut\nZeytinyağlı Şakşuka\nSade Pirinç Pilavı\nNurdağı Salata (11)\nYoğurt (4)",
+    "2026-10-19": "Terbiyeli Tel Şehriye Çorba (1,3,4)\nKuru Börülce Salatası\nZeytinyağlı Bezelye\nBulgur Pilavı (1)\nRus Salatası (4,12)\nTrabzon Baklavası (11,4,1)",
+    "2026-10-20": "Ezogelin Çorba (1)\nSebzeli Yeşil Mercimek\nPeynirli Kabak Sefası (4)\nCevizli Erişte (1,11)\nKoslov (4)\nMeyve",
+    "2026-10-21": "Kırmızı Mercimek Çorba (1)\nNohut Tava\nZeytinyağlı Kapuska\nArabiata Soslu Makarna (1)\nMercimek Köfte / Marul (1)\nAyran (4)",
+    "2026-10-22": "Tutmaç Çorba (1,3,4)\nSebzeli Barbunya\nZerdeçallı Karnabahar - Havuç\nMısırlı Pirinç Pilavı\nAkdeniz Salata\nYoğurt (4)",
+    "2026-10-23": "Tarhana Çorba (1,4)\nPiyaz (12)\nZeytinyağlı Bamya\nPeynirli Makarna (1,4)\nPembe Sultan (4,12)\nFırın Sütlaç (1,3,4,11)",
+    "2026-10-26": "Kremalı Mantar Çorba (1,4)\nSebzeli Kuru Fasülye\nPeynirli Kabak Sefası (4)\nİç Pilav (11)\nKarışık Turşu (12)\nYoğurt (4)",
+    "2026-10-27": "Terbiyeli Tel Şehriye Çorba (1,3,4)\nNohut Salatası\nZeytinyağlı Taze Fasülye\nKısır (1,12)\nKabak Tarator (4)\nSüt Helvası (1,4)",
+    "2026-10-28": "RESMİ TATİL",
+    "2026-10-29": "RESMİ TATİL",
+    "2026-10-30": "Kırmızı Mercimek Çorba (1)\nPiyaz (12)\nZeytinyağlı Bezelye\nPatlıcanlı Bulgur Pilavı\nKöpoğlu (4)\nBrowni (1,3)"
+   }
+  },
+  "personel": {
+   "ogle": {
+    "2026-10-12": "Etli Kuru Fasülye\nSultan Çorba (1,3,4)\nİç Pilav (11)\nKarışık Turşu (12)",
+    "2026-10-13": "Tantuni (1)\nKırmızı Mercimek Çorba (1)\nSüt Helvası (1,4)\nAyran (4)",
+    "2026-10-14": "Macar Gulaş (1)\nTutmaç Çorba (1,3,4)\nBiber Borani (4)\nŞekerpare (1,3,4,11)",
+    "2026-10-15": "Etli Karnıyarık\nEzogelin Çorba (1)\nMısırlı Pirinç Pilavı\nCacık (4)",
+    "2026-10-16": "İnegöl Köfte / Piyaz (1,3,12)\nYayla Çorba (1,3,4)\nPatlıcanlı Bulgur Pilavı (1)\nBrowni (1,3)",
+    "2026-10-01": "Etli Biber Dolma / Yoğurt (4)\nSütlü Domates Çorba (1,4)\nPeynirli Puf Böreği (4,3,1)\nVişne Komposto",
+    "2026-10-02": "Sebzeli Yeşil Mercimek\nDüğün Çorba (1,3,4)\nPiliç Etli Bulgur Pilavı (1)\nHavuç Tarator (4,11)",
+    "2026-10-05": "Sebzeli Barbunya\nRomen Çorba (1,3,4,12)\nBuhara Pilavı (11)\nYoğurt (4)",
+    "2026-10-06": "Aynalı Kebap (4)\nDomatesli Şehriye Çorba (1)\nAnkara Burma (11,4,1)\nBulgur Pilavı (1)",
+    "2026-10-07": "Domates - Biberli Tavuk Pirzola\nKırmızı Mercimek Çorba (1)\nArabiata Soslu Makarna (1)\nAyran (4)",
+    "2026-10-08": "Terbiyeli Köfte (1,3,4)\nTarhana Çorba (1,4)\nPeynirli Makarna (1,4)\nArmut",
+    "2026-10-09": "Kıymalı Kabak Sandal Sefası (4)\nEzogelin Çorba (1)\nCevizli Erişte (1,11)\nFırın Sütlaç (1,3,4,11)",
+    "2026-10-19": "Fırın Tavuk Baget\nKöylü Çorba (1,3,4)\nYoğurtlu Mantı (1,4)\nElma",
+    "2026-10-20": "Ankara Tava\nKırmızı Mercimek Çorba (1)\nIspanak Borani (4)\nTrileçe (1,3,4)",
+    "2026-10-21": "Etli Türlü (yaz)\nPeskutan Çorba (1,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nHavuçlu Cevizli Kek (11,4,3,1)",
+    "2026-10-22": "İslim Köfte / Patates Kızartması (1,3)\nNaneli Yoğurt Çorba (1,3,4)\nSalçalı Bulgur Pilavı (1)\nAyran (4)",
+    "2026-10-23": "Etli Nohut\nEzogelin Çorba (1)\nSade Pirinç Pilavı\nYoğurt (4)",
+    "2026-10-26": "İskender Kebap (1)\nKırmızı Mercimek Çorba (1)\nYoğurt (4)\nMozaik Pasta (1,4)",
+    "2026-10-27": "Çanak Köfte (1,3,4)\nEzogelin Çorba (1)\nYoğurtlu Makarna (1,4)\nMevsim Salata",
+    "2026-10-28": "Fırın Karnabahar\nTavuksuyu Çorba (1,3,4)\nPeynirli Gül Böreği (1,3,4)\nKarışık Komposto",
+    "2026-10-29": "RESMİ TATİL",
+    "2026-10-30": "Yayla Soslu Piliç (1,4)\nToyga Çorba (1,4)\nSebzeli Pirinç Pilavı\nAyran (4)"
+   }
+  }
+ },
+ "duyurular": [
+  {
+   "b": "2026-2027 Dönemi AB Bursları Duyurusu",
+   "u": "https://www.uludag.edu.tr/iibf/2026-2027-donemi-ab-burslari-duyurusu-99323",
+   "t": "2026-10-08",
+   "i": "Marmara Belediyeler Birliği (MBB), Uluslararası Göç Politikaları Geliştirme Merkezi – ICMPD Türkiye, Ankara Üniversitesi ve Hasan Kalyoncu Üniversitesi iş birliğinde Avrupa Birliği finansal desteği ile AB Bursları projesi yürütülmektedir. Proje kapsamında yükseköğretime erişim, toplumsal uyum ve mesleki hayatı desteklemek amacıyla Türkiye’de eğitimine devam eden Türkiye Cumhuriyeti vatandaşı, geçici koruma veya uluslararası koruma statüsüne sahip öğrencilere burs verilmektedir. MBB, İstanbul ve Bursa illerinde bulunan üniversitelerde okuyan öğrencilerin başvurularının koordinasyonundan sorumlu olup burs başvuruları 22 Eylül - 1 Kasım 2026 tarihleri arasında çevrim içi olarak https://euburs.org adresi üzerinden gerçekleştirilecektir. Önlisans, lisans, yüksek lisans ve doktora düzeyinde öğrenim gören öğrencilere yönelik gerçekleştirilen burs projesinin yaygınlaştırılmasını sağlamak amacıyla 19 Ekim 2026 Pazartesi günü 11.00-12.00 saatleri arasında burs başvurusunda bulunacak öğrencilere yönelik \"AB Bursları Çevrim içi Bilgilendirme Toplantısı\" gerçekleştirilecektir. Toplantı kapsamında burs başvurularına ilişkin uygunluk şartları, başvuru adımları, belge yükleme gibi detaylar hakkında bilgilendirme yapılacaktır. Toplantıya katılım sağlayacak ilgililerin mbb.tr/abburslarıbilgi adresi üzerinden\n\nkayıt oluşturmaları gerekmektedir. Burs başvurusuna ilişkin bilgi ve sorular için euburs@mbb.gov.tr adresi üzerinden iletişime geçilebilir.\n\nBilgi\n\nOkunma Sayısı: 71\n\nEklenme Tarihi: 8.10.2026\n\nGüncelleme Tarihi: 8.10.2026 14:43:24\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 99323
+  },
+  {
+   "b": "ARASINAV TARİHLERİ HAKKINDA DUYURU",
+   "u": "https://www.uludag.edu.tr/iibf/arasinav-tarihleri-hakkinda-duyuru-99285",
+   "t": "2026-10-08",
+   "i": "Bilgi\n\nOkunma Sayısı: 253\n\nEklenme Tarihi: 8.10.2026\n\nGüncelleme Tarihi: 8.10.2026 10:39:27\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 99285
+  },
+  {
+   "b": "Meme Kanseri Farkındalık Etkinliği Duyurusu",
+   "u": "https://www.uludag.edu.tr/iibf/meme-kanseri-farkindalik-etkinligi-duyurusu-99274",
+   "t": "2026-10-08",
+   "i": "Bilgi\n\nOkunma Sayısı: 39\n\nEklenme Tarihi: 8.10.2026\n\nGüncelleme Tarihi: 8.10.2026 09:05:53\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 99274
+  },
+  {
+   "b": "2026-YKS Ek Yerleştirme Sonuçlarına Göre Üniversitemize Yerleşen Adayların Kayıt İşlemleri!",
+   "u": "https://www.uludag.edu.tr/iibf/2026-yks-ek-yerlestirme-sonuclarina-gore-universitemize-yerlesen-adaylarin-kayit-islemleri-99037",
+   "t": "2026-10-01",
+   "i": "Bilgi\n\nOkunma Sayısı: 137\n\nEklenme Tarihi: 1.10.2026\n\nGüncelleme Tarihi: 1.10.2026 16:31:44\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 99037
+  },
+  {
+   "b": "ULUSLARARASI ÖĞRENCİLERİN İKAMET İZNİ İŞLEMLERİ",
+   "u": "https://www.uludag.edu.tr/iibf/uluslararasi-ogrencilerin-ikamet-izni-islemleri-99036",
+   "t": "2026-10-01",
+   "i": "Bilgi\n\nOkunma Sayısı: 87\n\nEklenme Tarihi: 1.10.2026\n\nGüncelleme Tarihi: 1.10.2026 16:30:39\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 99036
+  },
+  {
+   "b": "BESLENME BURSU BAŞVURULARI BAŞLADI",
+   "u": "https://www.uludag.edu.tr/iibf/beslenme-bursu-basvurulari-basladi-99035",
+   "t": "2026-10-01",
+   "i": "Bilgi\n\nOkunma Sayısı: 138\n\nEklenme Tarihi: 1.10.2026\n\nGüncelleme Tarihi: 1.10.2026 16:28:11\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 99035
+  },
+  {
+   "b": "Rönesans Eğitim Vakfı Bursu",
+   "u": "https://www.uludag.edu.tr/iibf/ronesans-egitim-vakfi-bursu-98936",
+   "t": "2026-09-30",
+   "i": "Bilgi\n\nOkunma Sayısı: 139\n\nEklenme Tarihi: 30.09.2026\n\nGüncelleme Tarihi: 30.09.2026 09:35:54\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 98936
+  },
+  {
+   "b": "Kan Bağışı Kabul Saatleri ve Hasta Yakınlarının Kan Bağışına Yönlendirilmesi Hakkında",
+   "u": "https://www.uludag.edu.tr/iibf/kan-bagisi-kabul-saatleri-ve-hasta-yakinlarinin-kan-bagisina-yonlendirilmesi-hakkinda-98935",
+   "t": "2026-09-30",
+   "i": "Kan, yalnızca insanlardan temin edilebilen ve başka herhangi bir tıbbi veya teknolojik yöntemle üretilemeyen hayati bir ihtiyaçtır. Bu nedenle kan bağışında bulunmak, hastaların tedavi süreçlerinin sürdürülebilmesi açısından büyük önem taşımakta olup, aynı zamanda önemli bir toplumsal sorumluluktur. Gönüllü olarak bağışlanan bir ünite kanın uygun bileşenlerine ayrılmasıyla birden fazla hastanın tedavisinde kullanılabilmesi, kan bağışının önemini daha da artırmaktadır. Hastanemiz bünyesinde kesintisiz hizmet sunan Dr. Raşit Durusoy Kan Merkezi tarafından, artan transfüzyon ihtiyaçlarının karşılanabilmesi amacıyla donör kabul kapasitesi artırılmıştır. Kan Merkezimizde haftanın her günü 08.30-23.30 saatleri arasında gönüllü kan bağışçıları kabul edilmektedir.\n\nBilgi\n\nOkunma Sayısı: 106\n\nEklenme Tarihi: 30.09.2026\n\nGüncelleme Tarihi: 30.09.2026 09:32:02\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 98935
+  },
+  {
+   "b": "2026-2027 EĞİTİM ÖĞRETİM YILI GÜZ YARIYILI DERS PROGRAMI",
+   "u": "https://www.uludag.edu.tr/iibf/2026-2027-egitim-ogretim-yili-guz-yariyili-ders-programi-98715",
+   "t": "2026-09-25",
+   "i": "2026-2027 EĞİTİM ÖĞRETİM YILI GÜZ YARIYILI DERS PROGRAMI İÇİN TIKLAYINIZ\n\nBilgi\n\nOkunma Sayısı: 2214\n\nEklenme Tarihi: 25.09.2026\n\nGüncelleme Tarihi: 25.09.2026 11:42:22\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ],
+    [
+     "2026-2027 EĞİTİM ÖĞRETİM YILI GÜZ YARIYILI DERS PROGRAMI İÇİN TIKLAYINIZ",
+     "http://uludag.edu.tr/dosyalar\\iibf/2026-2027/GUZ/PROGRAM/2026-2027%20G%C3%9CZ%20DERS%20PROGRAMI-25.09.2026.pdf"
+    ]
+   ],
+   "id": 98715
+  },
+  {
+   "b": "Zorunlu Hazırlık 2.Ek Muafiyet Sınavı Hakkında Duyuru",
+   "u": "https://www.uludag.edu.tr/iibf/zorunlu-hazirlik-2ek-muafiyet-sinavi-hakkinda-duyuru-98583",
+   "t": "2026-09-22",
+   "i": "Bilgi\n\nOkunma Sayısı: 358\n\nEklenme Tarihi: 22.09.2026\n\nGüncelleme Tarihi: 29.09.2026 15:15:34\n\nPaylaş",
+   "e": [
+    [
+     "FAKÜLTE TARİHÇESİ",
+     "https://www.uludag.edu.tr/iibf/dosyalar/iibf/Fakulte/%C4%B0%C4%B0BF%20Fak%C3%BClte%20Tarih%C3%A7esi.pdf"
+    ]
+   ],
+   "id": 98583
+  }
+ ]
+}
