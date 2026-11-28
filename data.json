@@ -1,13 +1,9 @@
 {
- "guncelleme": "2026-11-27T15:12:05+00:00",
+ "guncelleme": "2026-11-28T00:34:25+00:00",
  "yemek": {
   "ogrenci": {
    "ogle": {
-    "2026-11-23": "Izgara Tavuk / Sebze Garni\nTarhana Çorba (1,4)\nSalçalı Bulgur Pilavı (1)\nAyran (4)",
-    "2026-11-24": "Ekşili Kebap\nKırmızı Mercimek Çorba (1)\nYoğurtlu Makarna (1,4)\nArmut",
-    "2026-11-25": "Arnavut Ciğeri (1)\nDomatesli Şehriye Çorba (1)\nPiyaz (12)\nKabak Tatlısı (11,14)",
-    "2026-11-26": "Etli Nohut\nMinestrone Çorba (9,4,3,1)\nArpa Şehriyeli Pirinç Pilavı (1)\nKuru Cacık (4)",
-    "2026-11-27": "Tepsi Köfte / Patates Kızartması (1,3,4)\nAbant Çorba (1,4)\nNohutlu Pirinç Pilavı\nKarışık Komposto",
+    "2026-11-30": "Sebzeli Kuru Fasülye\nEzogelin Çorba (1)\nEtli Pirinç Pilavı\nAyran (4)",
     "2026-11-02": "Pilav Üstü Tavuk Döner (1,4)\nKırmızı Mercimek Çorba (1)\nMevsim Salata\nAyran (4)",
     "2026-11-03": "Kıymalı Kuru Fasülye\nTarhana Çorba (1,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nHaşhaşlı Revani (1,3)",
     "2026-11-04": "Rosto Köfte / Püre (1,3,4)\nNaneli Yoğurt Çorba (1,3,4)\nMercimekli Bulgur Pilavı (1)\nMandalina",
@@ -23,14 +19,14 @@
     "2026-11-18": "Sebzeli Piliç\nSütlü Domates Çorba (1,4)\nYoğurtlu Havuç Karnabahar Kızartma (1,3,4)\nSupangle (1,4)",
     "2026-11-19": "Bahçıvan Köfte (1,3)\nEzogelin Çorba (1)\nNapoliten Soslu Makarna (1)\nAyran (4)",
     "2026-11-20": "Pastırmalı Kuru Fasülye (1)\nTerbiyeli Tel Şehriye Çorba (1,3,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nKarışık Turşu (12)",
-    "2026-11-30": "Sebzeli Kuru Fasülye\nEzogelin Çorba (1)\nEtli Pirinç Pilavı\nAyran (4)"
+    "2026-11-23": "Izgara Tavuk / Sebze Garni\nTarhana Çorba (1,4)\nSalçalı Bulgur Pilavı (1)\nAyran (4)",
+    "2026-11-24": "Ekşili Kebap\nKırmızı Mercimek Çorba (1)\nYoğurtlu Makarna (1,4)\nArmut",
+    "2026-11-25": "Arnavut Ciğeri (1)\nDomatesli Şehriye Çorba (1)\nPiyaz (12)\nKabak Tatlısı (11,14)",
+    "2026-11-26": "Etli Nohut\nMinestrone Çorba (9,4,3,1)\nArpa Şehriyeli Pirinç Pilavı (1)\nKuru Cacık (4)",
+    "2026-11-27": "Tepsi Köfte / Patates Kızartması (1,3,4)\nAbant Çorba (1,4)\nNohutlu Pirinç Pilavı\nKarışık Komposto"
    },
    "aksam": {
-    "2026-11-23": "Pastırmalı Kuru Fasülye (1)\nSütlü Domates Çorba (1,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nHaydari (4)",
-    "2026-11-24": "İzmir Köfte (1,3)\nYayla Çorba (1,3,4)\nBulgur Pilavı (1)\nPrenses Tatlısı (1,4)",
-    "2026-11-25": "Tavuk Şinitzel / Patates Kızartması (1,3)\nEzogelin Çorba (1)\nErişte (1)\nKarışık Salata",
-    "2026-11-26": "Mezgit Tava / Roka (1,5)\nTarhana Çorba (1,4)\nPatates Salatası (12)\nİrmik Helvası (1,11)",
-    "2026-11-27": "Et Döner / Bulgur Pilavı (1)\nKırmızı Mercimek Çorba (1)\nMevsim Salata\nAyran (4)",
+    "2026-11-30": "Yahni (1)\nTutmaç Çorba (1,3,4)\nTel Şehriyeli Bulgur Pilavı (1)\nHavuç Tarator (4,11)",
     "2026-11-02": "Kıymalı Bezelye\nTavuklu Çerkez Çorba (4,3,1)\nPeynirli Su Böreği (1,3,4)\nBaklava (1,4,11)",
     "2026-11-03": "Ali Nazik (4)\nKırmızı Mercimek Çorba (1)\nTel Şehriyeli Bulgur Pilavı (1)\nMarul Havuç Salata",
     "2026-11-04": "Sebzeli Piliç\nSütlü Domates Çorba (1,4)\nYoğurtlu Havuç Karnabahar Kızartma (1,3,4)\nSupangle (1,4)",
@@ -46,16 +42,16 @@
     "2026-11-18": "Rosto Köfte / Püre (1,3,4)\nNaneli Yoğurt Çorba (1,3,4)\nMercimekli Bulgur Pilavı (1)\nMandalina",
     "2026-11-19": "Patates Musakka\nSütlü Domates Çorba (1,4)\nMısırlı Pirinç Pilavı\nYoğurt (4)",
     "2026-11-20": "Tavuk Etli Sultan Kebabı (1,4)\nEzogelin Çorba (1)\nBiber Borani (4)\nŞekerpare (1,3,4,11)",
-    "2026-11-30": "Yahni (1)\nTutmaç Çorba (1,3,4)\nTel Şehriyeli Bulgur Pilavı (1)\nHavuç Tarator (4,11)"
+    "2026-11-23": "Pastırmalı Kuru Fasülye (1)\nSütlü Domates Çorba (1,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nHaydari (4)",
+    "2026-11-24": "İzmir Köfte (1,3)\nYayla Çorba (1,3,4)\nBulgur Pilavı (1)\nPrenses Tatlısı (1,4)",
+    "2026-11-25": "Tavuk Şinitzel / Patates Kızartması (1,3)\nEzogelin Çorba (1)\nErişte (1)\nKarışık Salata",
+    "2026-11-26": "Mezgit Tava / Roka (1,5)\nTarhana Çorba (1,4)\nPatates Salatası (12)\nİrmik Helvası (1,11)",
+    "2026-11-27": "Et Döner / Bulgur Pilavı (1)\nKırmızı Mercimek Çorba (1)\nMevsim Salata\nAyran (4)"
    }
   },
   "vejetaryen": {
    "ogle": {
-    "2026-11-23": "Tarhana Çorba (1,4)\nKuru Börülce Salatası\nZeytinyağlı Ispanak\nSalçalı Bulgur Pilavı (1)\nÇiğ Köfte / Marul (1)\nYoğurt (4)",
-    "2026-11-24": "Kırmızı Mercimek Çorba (1)\nMeyve Suyu\nNohut Tava\nZeytinyağlı Bamya\nYoğurtlu Makarna (1,4)\nHerse\nMeyve",
-    "2026-11-25": "Domatesli Şehriye Çorba (1)\nPiyaz (12)\nZeytinyağlı Kapuska\nYoğurtlu Kuskus Salata (1,4,12)\nMercimek Köfte / Marul (1)\nKabak Tatlısı (11,14)",
-    "2026-11-26": "Minestrone Çorba (9,4,3,1)\nSebzeli Kuru Fasülye\nZeytinyağlı Brokoli - Havuç\nArpa Şehriyeli Pirinç Pilavı (1)\nKuru Cacık (4)\nMeyve",
-    "2026-11-27": "Abant Çorba (1,4)\nSebzeli Barbunya\nZerdeçallı Karnabahar - Havuç\nNohutlu Pirinç Pilavı\nKabak Mücver (1,3)\nKarışık Komposto",
+    "2026-11-30": "Ezogelin Çorba (1)\nSebzeli Kuru Fasülye\nZeytinyağlı Enginar Dolma\nSade Pirinç Pilavı\nKarışık Turşu (12)\nAyran (4)",
     "2026-11-02": "Kırmızı Mercimek Çorba (1)\nSebzeli Nohut\nPatlıcan İmambayıldı\nSade Pirinç Pilavı\nMevsim Salata\nAyran (4)",
     "2026-11-03": "Tarhana Çorba (1,4)\nSebzeli Kuru Fasülye\nZeytinyağlı Brokoli - Havuç\nArpa Şehriyeli Pirinç Pilavı (1)\nMütebbel (4,14)\nHaşhaşlı Revani (1,3)",
     "2026-11-04": "Naneli Yoğurt Çorba (1,3,4)\nKuru Börülce Salatası\nZeytinyağlı Bamya\nMercimekli Bulgur Pilavı (1)\nKoslov (4)\nMeyve",
@@ -71,14 +67,14 @@
     "2026-11-18": "Sütlü Domates Çorba (1,4)\nSebzeli Kuru Fasülye\nYoğurtlu Havuç Karnabahar Kızartma (1,3,4)\nKısır (1,12)\nAkdeniz Salata\nSupangle (1,4)",
     "2026-11-19": "Ezogelin Çorba (1)\nYeşil Mercimek Salatası (12)\nZeytinyağlı Portakallı Kereviz (9)\nNapoliten Soslu Makarna (1)\nZeytin Piyazı (12)\nAyran (4)",
     "2026-11-20": "Terbiyeli Tel Şehriye Çorba (1,3,4)\nSebzeli Nohut\nSebze Graten\nSade Pirinç Pilavı\nKuru Cacık (4)\nKarışık Turşu (12)",
-    "2026-11-30": "Ezogelin Çorba (1)\nSebzeli Kuru Fasülye\nZeytinyağlı Enginar Dolma\nSade Pirinç Pilavı\nKarışık Turşu (12)\nAyran (4)"
+    "2026-11-23": "Tarhana Çorba (1,4)\nKuru Börülce Salatası\nZeytinyağlı Ispanak\nSalçalı Bulgur Pilavı (1)\nÇiğ Köfte / Marul (1)\nYoğurt (4)",
+    "2026-11-24": "Kırmızı Mercimek Çorba (1)\nMeyve Suyu\nNohut Tava\nZeytinyağlı Bamya\nYoğurtlu Makarna (1,4)\nHerse\nMeyve",
+    "2026-11-25": "Domatesli Şehriye Çorba (1)\nPiyaz (12)\nZeytinyağlı Kapuska\nYoğurtlu Kuskus Salata (1,4,12)\nMercimek Köfte / Marul (1)\nKabak Tatlısı (11,14)",
+    "2026-11-26": "Minestrone Çorba (9,4,3,1)\nSebzeli Kuru Fasülye\nZeytinyağlı Brokoli - Havuç\nArpa Şehriyeli Pirinç Pilavı (1)\nKuru Cacık (4)\nMeyve",
+    "2026-11-27": "Abant Çorba (1,4)\nSebzeli Barbunya\nZerdeçallı Karnabahar - Havuç\nNohutlu Pirinç Pilavı\nKabak Mücver (1,3)\nKarışık Komposto"
    },
    "aksam": {
-    "2026-11-23": "Sütlü Domates Çorba (1,4)\nSebzeli Nohut\nZeytinyağlı Kabak Bayıldı\nSade Pirinç Pilavı\nHaydari (4)\nMeyve",
-    "2026-11-24": "Yayla Çorba (1,3,4)\nSebzeli Yeşil Mercimek\nPırasa Graten (1,4)\nBulgur Pilavı (1)\nRus Salatası (4,12)\nPrenses Tatlısı (1,4)",
-    "2026-11-25": "Ezogelin Çorba (1)\nVegan Fajita (12)\nZeytinyağlı Taze Fasülye\nErişte (1)\nKarışık Salata\nAyran (4)",
-    "2026-11-26": "Tarhana Çorba (1,4)\nFalafel (1,3,4,14)\nZeytinyağlı Bezelye\nYoğurtlu Makarna (1,4)\nPatates Salatası (12)\nİrmik Helvası (1,11)",
-    "2026-11-27": "Kırmızı Mercimek Çorba (1)\nSebzeli Kuru Fasülye\nBulgur Pilavı (1)\nMevsim Salata\nAyran (4)\nPeynirli Puf Böreği (4,3,1)",
+    "2026-11-30": "Tutmaç Çorba (1,3,4)\nNohut Tava\nZeytinyağlı Bamya\nTel Şehriyeli Bulgur Pilavı (1)\nHavuç Tarator (4,11)\nMeyve",
     "2026-11-02": "Kremalı Mantar Çorba (1,4)\nPiyaz (12)\nZeytinyağlı Bezelye\nPeynirli Su Böreği (1,3,4)\nHavuç Tarator (4,11)\nBaklava (1,4,11)",
     "2026-11-03": "Kırmızı Mercimek Çorba (1)\nVegan Fajita (12)\nZeytinyağlı Taze Fasülye\nTel Şehriyeli Bulgur Pilavı (1)\nMarul Havuç Salata\nYoğurt (4)",
     "2026-11-04": "Sütlü Domates Çorba (1,4)\nSebzeli Kuru Fasülye\nYoğurtlu Havuç Karnabahar Kızartma (1,3,4)\nKısır (1,12)\nAkdeniz Salata\nSupangle (1,4)",
@@ -94,16 +90,16 @@
     "2026-11-18": "Naneli Yoğurt Çorba (1,3,4)\nKuru Börülce Salatası\nZeytinyağlı Bamya\nMercimekli Bulgur Pilavı (1)\nKoslov (4)\nMeyve",
     "2026-11-19": "Sütlü Domates Çorba (1,4)\nSebzeli Barbunya\nZeytinyağlı Enginar Dolma\nMısırlı Pirinç Pilavı\nMercimek Köfte / Marul (1)\nYoğurt (4)",
     "2026-11-20": "Ezogelin Çorba (1)\nYeşil Mercimek Salatası (12)\nZeytinyağlı Türlü\nPeynirli Puf Böreği (4,3,1)\nBiber Borani (4)\nŞekerpare (1,3,4,11)",
-    "2026-11-30": "Tutmaç Çorba (1,3,4)\nNohut Tava\nZeytinyağlı Bamya\nTel Şehriyeli Bulgur Pilavı (1)\nHavuç Tarator (4,11)\nMeyve"
+    "2026-11-23": "Sütlü Domates Çorba (1,4)\nSebzeli Nohut\nZeytinyağlı Kabak Bayıldı\nSade Pirinç Pilavı\nHaydari (4)\nMeyve",
+    "2026-11-24": "Yayla Çorba (1,3,4)\nSebzeli Yeşil Mercimek\nPırasa Graten (1,4)\nBulgur Pilavı (1)\nRus Salatası (4,12)\nPrenses Tatlısı (1,4)",
+    "2026-11-25": "Ezogelin Çorba (1)\nVegan Fajita (12)\nZeytinyağlı Taze Fasülye\nErişte (1)\nKarışık Salata\nAyran (4)",
+    "2026-11-26": "Tarhana Çorba (1,4)\nFalafel (1,3,4,14)\nZeytinyağlı Bezelye\nYoğurtlu Makarna (1,4)\nPatates Salatası (12)\nİrmik Helvası (1,11)",
+    "2026-11-27": "Kırmızı Mercimek Çorba (1)\nSebzeli Kuru Fasülye\nBulgur Pilavı (1)\nMevsim Salata\nAyran (4)\nPeynirli Puf Böreği (4,3,1)"
    }
   },
   "personel": {
    "ogle": {
-    "2026-11-23": "Izgara Tavuk / Sebze Garni\nTarhana Çorba (1,4)\nSalçalı Bulgur Pilavı (1)\nAyran (4)",
-    "2026-11-24": "Ekşili Kebap\nKırmızı Mercimek Çorba (1)\nYoğurtlu Makarna (1,4)\nArmut",
-    "2026-11-25": "Arnavut Ciğeri (1)\nDomatesli Şehriye Çorba (1)\nPiyaz (12)\nKabak Tatlısı (11,14)",
-    "2026-11-26": "Etli Nohut\nMinestrone Çorba (9,4,3,1)\nArpa Şehriyeli Pirinç Pilavı (1)\nKuru Cacık (4)",
-    "2026-11-27": "Tepsi Köfte / Patates Kızartması (1,3,4)\nAbant Çorba (1,4)\nNohutlu Pirinç Pilavı\nKarışık Komposto\nKahvaltı Menüsü\nSadece Merkez Öğrenci Yemekhanesinde sunulmaktadır.",
+    "2026-11-30": "Sebzeli Kuru Fasülye\nEzogelin Çorba (1)\nEtli Pirinç Pilavı\nAyran (4)\nKahvaltı Menüsü\nSadece Merkez Öğrenci Yemekhanesinde sunulmaktadır.",
     "2026-11-02": "Pilav Üstü Tavuk Döner (1,4)\nKırmızı Mercimek Çorba (1)\nMevsim Salata\nAyran (4)",
     "2026-11-03": "Kıymalı Kuru Fasülye\nTarhana Çorba (1,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nHaşhaşlı Revani (1,3)",
     "2026-11-04": "Rosto Köfte / Püre (1,3,4)\nNaneli Yoğurt Çorba (1,3,4)\nMercimekli Bulgur Pilavı (1)\nMandalina",
@@ -119,7 +115,11 @@
     "2026-11-18": "Sebzeli Piliç\nSütlü Domates Çorba (1,4)\nYoğurtlu Havuç Karnabahar Kızartma (1,3,4)\nSupangle (1,4)",
     "2026-11-19": "Bahçıvan Köfte (1,3)\nEzogelin Çorba (1)\nNapoliten Soslu Makarna (1)\nAyran (4)",
     "2026-11-20": "Pastırmalı Kuru Fasülye (1)\nTerbiyeli Tel Şehriye Çorba (1,3,4)\nArpa Şehriyeli Pirinç Pilavı (1)\nKarışık Turşu (12)",
-    "2026-11-30": "Sebzeli Kuru Fasülye\nEzogelin Çorba (1)\nEtli Pirinç Pilavı\nAyran (4)\nKahvaltı Menüsü\nSadece Merkez Öğrenci Yemekhanesinde sunulmaktadır."
+    "2026-11-23": "Izgara Tavuk / Sebze Garni\nTarhana Çorba (1,4)\nSalçalı Bulgur Pilavı (1)\nAyran (4)",
+    "2026-11-24": "Ekşili Kebap\nKırmızı Mercimek Çorba (1)\nYoğurtlu Makarna (1,4)\nArmut",
+    "2026-11-25": "Arnavut Ciğeri (1)\nDomatesli Şehriye Çorba (1)\nPiyaz (12)\nKabak Tatlısı (11,14)",
+    "2026-11-26": "Etli Nohut\nMinestrone Çorba (9,4,3,1)\nArpa Şehriyeli Pirinç Pilavı (1)\nKuru Cacık (4)",
+    "2026-11-27": "Tepsi Köfte / Patates Kızartması (1,3,4)\nAbant Çorba (1,4)\nNohutlu Pirinç Pilavı\nKarışık Komposto"
    }
   }
  },
@@ -128,7 +128,7 @@
    "b": "06 OCAK 2027 BUÜDS MERKEZİ YABANCI DİL YETERLİK SINAVI (İNGİLİZCE-ALMANCA-FRANSIZCA-ARAPÇA) BAŞVURULARI",
    "u": "https://www.uludag.edu.tr/iibf/06-ocak-2027-buuds-merkezi-yabanci-dil-yeterlik-sinavi-ingilizce-almanca-fransizca-arapca-basvurul-100844",
    "t": "2026-11-27",
-   "i": "1. BUÜDS MERKEZİ YABANCI DİL YETERLİK SINAVI (İNGİLİZCE-ALMANCA-FRANSIZCA-ARAPÇA) BAŞVURU AÇIKLAMALARINA ULAŞMAK İÇİN BURAYA VEYA RESME TIKLAYINIZ ...\n\n2. BUÜDS MERKEZİ YABANCI DİL YETERLİK SINAVI SINAV YÖNERGESİNE ULAŞMAK İÇİN BURAYA TIKLAYINIZ...\n\nBilgi\n\nOkunma Sayısı: 21\n\nEklenme Tarihi: 27.11.2026\n\nGüncelleme Tarihi: 27.11.2026 09:41:11\n\nPaylaş",
+   "i": "1. BUÜDS MERKEZİ YABANCI DİL YETERLİK SINAVI (İNGİLİZCE-ALMANCA-FRANSIZCA-ARAPÇA) BAŞVURU AÇIKLAMALARINA ULAŞMAK İÇİN BURAYA VEYA RESME TIKLAYINIZ ...\n\n2. BUÜDS MERKEZİ YABANCI DİL YETERLİK SINAVI SINAV YÖNERGESİNE ULAŞMAK İÇİN BURAYA TIKLAYINIZ...\n\nBilgi\n\nOkunma Sayısı: 26\n\nEklenme Tarihi: 27.11.2026\n\nGüncelleme Tarihi: 27.11.2026 09:41:11\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -149,7 +149,7 @@
    "b": "TÜRK DİLİ / ATATÜRK İLKELERİ VE INKILAP TARİHİ / YABANCI DİL DERSLERİ GÜZ YARIYILI MAZERET SINAVPROGRAMI",
    "u": "https://www.uludag.edu.tr/iibf/turk-dili-ataturk-ilkeleri-ve-inkilap-tarihi-yabanci-dil-dersleri-guz-yariyili-mazeret-sinavpro-100755",
    "t": "2026-11-24",
-   "i": "TÜRK DİLİ DERSİ-1 GÜZ YARIYILI MAZERET SINAV PROGRAMI İÇİN TIKLAYINIZ\n\nATATÜRK İLKELERİ VE INKILAP TARİHİ-1 DERSİ GÜZ YARIYILI MAZERET SINAV PROGRAMI İÇİN TIKLAYINIZ\n\nYA BANCI DİLLER DERSİ GÜZ YARIYILI MAZERET SINAV PROGRAMI İÇİN TIKLAYINIZ\n\nBilgi\n\nOkunma Sayısı: 38\n\nEklenme Tarihi: 24.11.2026\n\nGüncelleme Tarihi: 27.11.2026 11:31:44\n\nPaylaş",
+   "i": "TÜRK DİLİ DERSİ-1 GÜZ YARIYILI MAZERET SINAV PROGRAMI İÇİN TIKLAYINIZ\n\nATATÜRK İLKELERİ VE INKILAP TARİHİ-1 DERSİ GÜZ YARIYILI MAZERET SINAV PROGRAMI İÇİN TIKLAYINIZ\n\nYA BANCI DİLLER DERSİ GÜZ YARIYILI MAZERET SINAV PROGRAMI İÇİN TIKLAYINIZ\n\nBilgi\n\nOkunma Sayısı: 54\n\nEklenme Tarihi: 24.11.2026\n\nGüncelleme Tarihi: 27.11.2026 11:31:44\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -178,7 +178,7 @@
    "b": "2026-2027 EĞİTİM ÖĞRETİM YILI GÜZ YARIYILI ARA SINAV MAZERET LİSTESİ",
    "u": "https://www.uludag.edu.tr/iibf/2026-2027-egitim-ogretim-yili-guz-yariyili-ara-sinav-mazeret-listesi-100754",
    "t": "2026-11-24",
-   "i": "2026-2027 EĞİTİM ÖĞRETİM YILI GÜZ YARIYILI ARA SINAV MAZERET LİSTESİ İÇİN TIKLAYINIZ.\n\n2026-2027 Eğitim-Öğretim Yılı Güz Yarıyılı Ara Sınav Mazeret Sınavları, 03-04 Aralık 2026 tarihlerinde gerçekleştirilecektir.\n\nMazeret sınavına katılacak öğrencilerimizin, sınav programı ve uygulamasına ilişkin bilgi almak amacıyla ilgili dersin öğretim üyesiyle iletişime geçmeleri gerekmektedir.\n\nBilgi\n\nOkunma Sayısı: 458\n\nEklenme Tarihi: 24.11.2026\n\nGüncelleme Tarihi: 27.11.2026 13:42:54\n\nPaylaş",
+   "i": "2026-2027 EĞİTİM ÖĞRETİM YILI GÜZ YARIYILI ARA SINAV MAZERET LİSTESİ İÇİN TIKLAYINIZ.\n\n2026-2027 Eğitim-Öğretim Yılı Güz Yarıyılı Ara Sınav Mazeret Sınavları, 03-04 Aralık 2026 tarihlerinde gerçekleştirilecektir.\n\nMazeret sınavına katılacak öğrencilerimizin, sınav programı ve uygulamasına ilişkin bilgi almak amacıyla ilgili dersin öğretim üyesiyle iletişime geçmeleri gerekmektedir.\n\nBilgi\n\nOkunma Sayısı: 562\n\nEklenme Tarihi: 24.11.2026\n\nGüncelleme Tarihi: 27.11.2026 13:42:54\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -195,7 +195,7 @@
    "b": "Türkiye Cumhuriyeti Dışişleri Bakanlığı Avrupa Birliği Başkanlığı 2027-2028 Akademik Yılı Avrupa Koleji Yüksek Lisans Burs Programı Duyurusu",
    "u": "https://www.uludag.edu.tr/iibf/turkiye-cumhuriyeti-disisleri-bakanligi-avrupa-birligi-baskanligi-2027-2028-akademik-yili-avrupa-kol-100542",
    "t": "2026-11-16",
-   "i": "Türkiye Cumhuriyeti Dışişleri Bakanlığ ıAvrupa Birliği Başkanlığı 2027-2028 Akademik Yılı Avrupa Koleji Yüksek Lisans Burs Programı Duyurusu İçin TIKLAYNIZ\n\nBilgi\n\nOkunma Sayısı: 194\n\nEklenme Tarihi: 16.11.2026\n\nGüncelleme Tarihi: 16.11.2026 11:42:13\n\nPaylaş",
+   "i": "Türkiye Cumhuriyeti Dışişleri Bakanlığ ıAvrupa Birliği Başkanlığı 2027-2028 Akademik Yılı Avrupa Koleji Yüksek Lisans Burs Programı Duyurusu İçin TIKLAYNIZ\n\nBilgi\n\nOkunma Sayısı: 197\n\nEklenme Tarihi: 16.11.2026\n\nGüncelleme Tarihi: 16.11.2026 11:42:13\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -212,7 +212,7 @@
    "b": "2026-2027 Akademik Yılı Başarı Burs Programı Başvuruları Başladı",
    "u": "https://www.uludag.edu.tr/iibf/2026-2027-akademik-yili-basari-burs-programi-basvurulari-basladi-100540",
    "t": "2026-11-16",
-   "i": "Türkiye'de kendi imkânlarıyla yükseköğrenim gören uluslararası öğrencilerin akademik başarılarını ödüllendirmeyi ve eğitim yolculuklarını desteklemeyi amaçlayan Türkiye Bursları Başarı Burs Programı için başvurular başlıyor!\n\nBurs detayları için TIKLAYINIZ\n\nBilgi\n\nOkunma Sayısı: 389\n\nEklenme Tarihi: 16.11.2026\n\nGüncelleme Tarihi: 16.11.2026 11:40:13\n\nPaylaş",
+   "i": "Türkiye'de kendi imkânlarıyla yükseköğrenim gören uluslararası öğrencilerin akademik başarılarını ödüllendirmeyi ve eğitim yolculuklarını desteklemeyi amaçlayan Türkiye Bursları Başarı Burs Programı için başvurular başlıyor!\n\nBurs detayları için TIKLAYINIZ\n\nBilgi\n\nOkunma Sayısı: 394\n\nEklenme Tarihi: 16.11.2026\n\nGüncelleme Tarihi: 16.11.2026 11:40:13\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -229,7 +229,7 @@
    "b": "2026-2027 İŞKUR GENÇLİK PROGRAMI BAŞVURU SONUÇLARI",
    "u": "https://www.uludag.edu.tr/iibf/2026-2027-iskur-genclik-programi-basvuru-sonuclari-100376",
    "t": "2026-11-10",
-   "i": "BAŞVURU SONUÇLARI İÇİN LÜTFEN TIKLAYINIZ\n\nBursa Çalışma ve İş Kurumu Müdürlüğü ile Üniversitemiz arasında 23.11.2026 tarihinde başlayıp 30.06.2027 tarihinde sona erecek olan İGP (İŞKUR Gençlik Programı) kazananları noter huzurunda çekilen kura ile belirlenmiştir.\n\nMüracaat eden ve asıl listede açıklanan adayların dışında kalan tüm adaylar yedek kontenjanında yer almaktadır.\n\nKazanan asıl adaylar için 11.11.2026 ile 13.11.2026 tarihleri arasında mesai bitimine kadar aşağıda belirtilen evraklarla birlikte Genel Sekreterlik 1 (519 kontenjan) ve Genel Sekreterlik 2 (500 kontenjan) birimi için Mediko - Sosyal binası 2. katta bulunan İhale Salonuna, diğer birimler için ise başvuru yapılan ilgili okula (fakülte/yüksekokul/meslekyüksekokulu) aşağıda listelenen evraklarla birlikte şahsen başvurmaları gerekmektedir.\n\n1 - Kimlik Fotokopisi\n\n2- Öğrenci Belgesi (E-Devlet üzerinden alınacak)\n\n3 - Aynı Hanede İkamet Eden Kişi Belgesi Sorgulama (E-Devlet üzerinden alınacak)\n\n4- Adli Sicil Kaydı (E-Devlet üzerinden alınacak)\n\n5- SGK Hizmet Dökümü (E-Devlet üzerinden alınacak)\n\n6 - Hane Gelir Beyanı : KYK ve özel Yurtlarda kalanlar bu belgeden muaf olup, yurtta kaldığına dair belge ibraz etmek zorundadır.\n\nAilesi ile ikamet edenler veya özel ev/v.b. kalanlar vukuatlı nüfus kayıt örneğindeki aile fertlerinin son aya ait maaş bordrosu, gelir vergisi beyannamesi, gelir gösterici diğer belgeler vb. ibraz etmek zorundadır.\n\n7- Ek Taahhütname doldurulacaktır .\n\n8- Aynı hanede çalışanların son aya ait maaş bordrosu veya çalışmadığına dair SGK Tescil ve Hizmet Dökümü\n\n9- İŞKUR Gençlik Programı Katılımcı Taahhütnamesi (Başvuru esnasında ilgili birim tarafından düzenlenecektir)\n\n10 - Banka Hesap Bilgileri (Herhangi bir bankadan başvuran adayın adına açılmış hesap bilgileri IBAN No dijital çıktısı olacaktır)\n\n11- Öğrencinin 2026-2027 Eğitim Öğretim yılı Güz Yarıyılı ders programı.\n\nYukarıda sayılan belgeler dışında aşağıdaki şartları sağlamayan adayların programa başvuruları kabul edilmeyecektir.\n\na) Türkiye Cumhuriyeti vatandaşı olmak: Programa başvurduğu tarihte ve program süresince Türkiye Cumhuriyeti Devletine vatandaşlık bağıyla bağlı olmayı ifade eder. 25/9/1981 tarihli ve 2527 sayılı Türk Soylu Yabancıların Türkiye'de Meslek ve Sanatlarını Serbestçe Yapabilmelerine, Kamu, Özel Kuruluş veya İşyerlerinde Çalıştırılabilmelerine İlişkin Kanun hükümleri kapsamında olanlar için Türkiye Cumhuriyeti vatandaşı olma şartı aranmaz.\n\nb) Kuruma kayıtlı olmak: Programa başvurduğu tarihte kişinin Kuruma kayıtlı olmasını ifade eder.\n\nc) 18 yaşını tamamlamış olmak: Programa başvurduğu tarihte kişinin 18 yaşını tamamlayarak 19 yaşından gün almış olmasını ifade eder.\n\nç) Yaşlılık veya malullük aylığı almamak : Kişinin SGK sistemi üzerinden yapılacak sorgulamasında kendi sigortalılıkları nedeniyle sosyal güvenlik kanunları çerçevesinde yaşlılık, malullük veya vazife malullüğü aylığı bağlanmamış olmasını ifade eder. Ancak 5510 sayılı Kanunun 19 uncu maddesinin birinci fıkrası kapsamında sürekli iş göremezlik ödeneği alanlar ile ölüm aylığı alanlar programa başvuru yapabilir ve katılımcı olabilir.\n\nd) Program talep tarihinden önceki bir yıldan programın fiilen başlayacağı tarihe kadar yüklenicinin veya bağlı, ilgili, ilişkili ve yan kuruluşlarının çalışanı olmamak; Talep Formunun doldurulduğu tarihten önceki bir yıldan programın fiilen başlayacağı tarihe kadarki süre içerisinde yüklenicinin veya bağlı, ilgili, ilişkili ve yan kuruluşlarının çalışanı olmamayı ifade eder.\n\ne) Başvuru tarihinden önceki son bir aylık sürede 5510 sayılı Kanunun 4 üncü maddesi kapsamında sigortalı olarak bildirilmemiş olmak veya sigortalı sayılmamak: Kişinin SGK sistemi üzerinden yapılacak sorgulamasında veya belge ile yapılacak kontrollerde başvuru tarihinden önceki son bir aylık sürede sigortalı olmamasını ifade eder. Başvuranın programa katılımcı olarak seçilmesi durumunda program başlangıç tarihinde de bu şartı sağlaması gerekmektedir. Yedekten programa eklenecek olanların ise hem başvuru tarihinde hem programa başlama tarihinde bu şartı sağlaması gerekmektedir. Yedek liste dışından programa eklenecek kişiler için bu şartın programa başlama tarihinde sağlanması gerekmektedir.\n\nf) Başvuru tarihi itibarıyla 5510 sayılı Kanunun 5 inci maddesi kapsamında sigortalı olarak bildirilmemiş olmak veya sigortalı sayılmamak: Kişinin yalnızca başvuru yaptığı tarihte anılan madde kapsamında sigortalı sayılmamasını ifade eder. Başvuranın programa katılımcı olarak seçilmesi durumunda program başlangıç tarihinde ve program devam süresince bu şartı sağlaması gerekmektedir. Yedekten programa eklenecek olanların ise hem başvuru tarihinde hem programa başlama tarihinde hem de programa devam süresince bu şartı sağlaması gerekmektedir. Yedek liste dışından programa eklenecek kişiler için bu şartın kişinin programa başlama tarihinde ve programa devam süresince sağlaması gerekmektedir.\n\ng) Hane gelir şartını sağlamak: Başvuru tarihindeki AKS’ye göre aynı adreste ikamet edenlerin, programa başlangıç tarihi dikkate alınarak ulaşılabilen en yakın döneme ait gelir getirici bir işte çalışma sonucu elde ettikleri aylık toplam kazançlarının asgari ücret tespit komisyonu tarafından belirlenen bir aylık asgari ücretin net tutarının üç (3) katını aşması halinde söz konusu adreste ikamet eden öğrenciler programa katılamaz. Bu şart Genelge’nin 10 uncu maddesinin ikinci fıkrası kapsamında programa eklenecek öğrenciler için de aranır. Yerleşim yeri adresi yurtlar ve sığınma evleri ve benzeri toplu yaşam alanları olanlar ile 8/03/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun kapsamında kimlik bilgileri gizlenenler için hane gelir şartı aranmaz.\n\nğ) Kurum tarafından sunulan aktif işgücü veya işsizlik sigortası programlarının yararlanıcısı olmamak: Kurum tarafından sunulan aktif veya işsizlik sigortası programlarından yararlananlar programlara başvuru yapamayacağı gibi katılımcı da olamazlar. Programa devam ederken Kurum tarafından sunulan aktif işgücü veya işsizlik sigortası programlarının yararlanıcısı olduğu tespit edilenlerin programdan mazeretsiz nedenle ayrılışı yapılır.\n\nBilgi\n\nOkunma Sayısı: 1320\n\nEklenme Tarihi: 10.11.2026\n\nGüncelleme Tarihi: 16.11.2026 13:00:42\n\nPaylaş",
+   "i": "BAŞVURU SONUÇLARI İÇİN LÜTFEN TIKLAYINIZ\n\nBursa Çalışma ve İş Kurumu Müdürlüğü ile Üniversitemiz arasında 23.11.2026 tarihinde başlayıp 30.06.2027 tarihinde sona erecek olan İGP (İŞKUR Gençlik Programı) kazananları noter huzurunda çekilen kura ile belirlenmiştir.\n\nMüracaat eden ve asıl listede açıklanan adayların dışında kalan tüm adaylar yedek kontenjanında yer almaktadır.\n\nKazanan asıl adaylar için 11.11.2026 ile 13.11.2026 tarihleri arasında mesai bitimine kadar aşağıda belirtilen evraklarla birlikte Genel Sekreterlik 1 (519 kontenjan) ve Genel Sekreterlik 2 (500 kontenjan) birimi için Mediko - Sosyal binası 2. katta bulunan İhale Salonuna, diğer birimler için ise başvuru yapılan ilgili okula (fakülte/yüksekokul/meslekyüksekokulu) aşağıda listelenen evraklarla birlikte şahsen başvurmaları gerekmektedir.\n\n1 - Kimlik Fotokopisi\n\n2- Öğrenci Belgesi (E-Devlet üzerinden alınacak)\n\n3 - Aynı Hanede İkamet Eden Kişi Belgesi Sorgulama (E-Devlet üzerinden alınacak)\n\n4- Adli Sicil Kaydı (E-Devlet üzerinden alınacak)\n\n5- SGK Hizmet Dökümü (E-Devlet üzerinden alınacak)\n\n6 - Hane Gelir Beyanı : KYK ve özel Yurtlarda kalanlar bu belgeden muaf olup, yurtta kaldığına dair belge ibraz etmek zorundadır.\n\nAilesi ile ikamet edenler veya özel ev/v.b. kalanlar vukuatlı nüfus kayıt örneğindeki aile fertlerinin son aya ait maaş bordrosu, gelir vergisi beyannamesi, gelir gösterici diğer belgeler vb. ibraz etmek zorundadır.\n\n7- Ek Taahhütname doldurulacaktır .\n\n8- Aynı hanede çalışanların son aya ait maaş bordrosu veya çalışmadığına dair SGK Tescil ve Hizmet Dökümü\n\n9- İŞKUR Gençlik Programı Katılımcı Taahhütnamesi (Başvuru esnasında ilgili birim tarafından düzenlenecektir)\n\n10 - Banka Hesap Bilgileri (Herhangi bir bankadan başvuran adayın adına açılmış hesap bilgileri IBAN No dijital çıktısı olacaktır)\n\n11- Öğrencinin 2026-2027 Eğitim Öğretim yılı Güz Yarıyılı ders programı.\n\nYukarıda sayılan belgeler dışında aşağıdaki şartları sağlamayan adayların programa başvuruları kabul edilmeyecektir.\n\na) Türkiye Cumhuriyeti vatandaşı olmak: Programa başvurduğu tarihte ve program süresince Türkiye Cumhuriyeti Devletine vatandaşlık bağıyla bağlı olmayı ifade eder. 25/9/1981 tarihli ve 2527 sayılı Türk Soylu Yabancıların Türkiye'de Meslek ve Sanatlarını Serbestçe Yapabilmelerine, Kamu, Özel Kuruluş veya İşyerlerinde Çalıştırılabilmelerine İlişkin Kanun hükümleri kapsamında olanlar için Türkiye Cumhuriyeti vatandaşı olma şartı aranmaz.\n\nb) Kuruma kayıtlı olmak: Programa başvurduğu tarihte kişinin Kuruma kayıtlı olmasını ifade eder.\n\nc) 18 yaşını tamamlamış olmak: Programa başvurduğu tarihte kişinin 18 yaşını tamamlayarak 19 yaşından gün almış olmasını ifade eder.\n\nç) Yaşlılık veya malullük aylığı almamak : Kişinin SGK sistemi üzerinden yapılacak sorgulamasında kendi sigortalılıkları nedeniyle sosyal güvenlik kanunları çerçevesinde yaşlılık, malullük veya vazife malullüğü aylığı bağlanmamış olmasını ifade eder. Ancak 5510 sayılı Kanunun 19 uncu maddesinin birinci fıkrası kapsamında sürekli iş göremezlik ödeneği alanlar ile ölüm aylığı alanlar programa başvuru yapabilir ve katılımcı olabilir.\n\nd) Program talep tarihinden önceki bir yıldan programın fiilen başlayacağı tarihe kadar yüklenicinin veya bağlı, ilgili, ilişkili ve yan kuruluşlarının çalışanı olmamak; Talep Formunun doldurulduğu tarihten önceki bir yıldan programın fiilen başlayacağı tarihe kadarki süre içerisinde yüklenicinin veya bağlı, ilgili, ilişkili ve yan kuruluşlarının çalışanı olmamayı ifade eder.\n\ne) Başvuru tarihinden önceki son bir aylık sürede 5510 sayılı Kanunun 4 üncü maddesi kapsamında sigortalı olarak bildirilmemiş olmak veya sigortalı sayılmamak: Kişinin SGK sistemi üzerinden yapılacak sorgulamasında veya belge ile yapılacak kontrollerde başvuru tarihinden önceki son bir aylık sürede sigortalı olmamasını ifade eder. Başvuranın programa katılımcı olarak seçilmesi durumunda program başlangıç tarihinde de bu şartı sağlaması gerekmektedir. Yedekten programa eklenecek olanların ise hem başvuru tarihinde hem programa başlama tarihinde bu şartı sağlaması gerekmektedir. Yedek liste dışından programa eklenecek kişiler için bu şartın programa başlama tarihinde sağlanması gerekmektedir.\n\nf) Başvuru tarihi itibarıyla 5510 sayılı Kanunun 5 inci maddesi kapsamında sigortalı olarak bildirilmemiş olmak veya sigortalı sayılmamak: Kişinin yalnızca başvuru yaptığı tarihte anılan madde kapsamında sigortalı sayılmamasını ifade eder. Başvuranın programa katılımcı olarak seçilmesi durumunda program başlangıç tarihinde ve program devam süresince bu şartı sağlaması gerekmektedir. Yedekten programa eklenecek olanların ise hem başvuru tarihinde hem programa başlama tarihinde hem de programa devam süresince bu şartı sağlaması gerekmektedir. Yedek liste dışından programa eklenecek kişiler için bu şartın kişinin programa başlama tarihinde ve programa devam süresince sağlaması gerekmektedir.\n\ng) Hane gelir şartını sağlamak: Başvuru tarihindeki AKS’ye göre aynı adreste ikamet edenlerin, programa başlangıç tarihi dikkate alınarak ulaşılabilen en yakın döneme ait gelir getirici bir işte çalışma sonucu elde ettikleri aylık toplam kazançlarının asgari ücret tespit komisyonu tarafından belirlenen bir aylık asgari ücretin net tutarının üç (3) katını aşması halinde söz konusu adreste ikamet eden öğrenciler programa katılamaz. Bu şart Genelge’nin 10 uncu maddesinin ikinci fıkrası kapsamında programa eklenecek öğrenciler için de aranır. Yerleşim yeri adresi yurtlar ve sığınma evleri ve benzeri toplu yaşam alanları olanlar ile 8/03/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun kapsamında kimlik bilgileri gizlenenler için hane gelir şartı aranmaz.\n\nğ) Kurum tarafından sunulan aktif işgücü veya işsizlik sigortası programlarının yararlanıcısı olmamak: Kurum tarafından sunulan aktif veya işsizlik sigortası programlarından yararlananlar programlara başvuru yapamayacağı gibi katılımcı da olamazlar. Programa devam ederken Kurum tarafından sunulan aktif işgücü veya işsizlik sigortası programlarının yararlanıcısı olduğu tespit edilenlerin programdan mazeretsiz nedenle ayrılışı yapılır.\n\nBilgi\n\nOkunma Sayısı: 1324\n\nEklenme Tarihi: 10.11.2026\n\nGüncelleme Tarihi: 16.11.2026 13:00:42\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -262,7 +262,7 @@
    "b": "KISMİ ZAMANALI BAŞVURU YAPAN ÖĞRENCİ MÜLAKATI",
    "u": "https://www.uludag.edu.tr/iibf/kismi-zamanali-basvuru-yapan-ogrenci-mulakati-100372",
    "t": "2026-11-10",
-   "i": "2026-2027 Eğitim-Öğretim Yılı Kısmi Zamanlı Çalışma Başvurusu kapsamında başvuru yapan öğrencilerimiz için 13 Kasım 2026 Cuma günü saat 10.30'da , Dekanlık Toplantı Salonu'nda (Dekanlık 2. Kat) mülakat gerçekleştirilecektir.\n\nBaşvuru yapan öğrencilerimize önemle duyurulur.\n\nBaşvuru yaptığı halde mülakata katılmayan öğrenciler, kısmi zamanlı çalışacak öğrenci listesi değerlendirmesine alınmayacaktır.\n\nBilgi\n\nOkunma Sayısı: 866\n\nEklenme Tarihi: 10.11.2026\n\nGüncelleme Tarihi: 13.11.2026 14:35:03\n\nPaylaş",
+   "i": "2026-2027 Eğitim-Öğretim Yılı Kısmi Zamanlı Çalışma Başvurusu kapsamında başvuru yapan öğrencilerimiz için 13 Kasım 2026 Cuma günü saat 10.30'da , Dekanlık Toplantı Salonu'nda (Dekanlık 2. Kat) mülakat gerçekleştirilecektir.\n\nBaşvuru yapan öğrencilerimize önemle duyurulur.\n\nBaşvuru yaptığı halde mülakata katılmayan öğrenciler, kısmi zamanlı çalışacak öğrenci listesi değerlendirmesine alınmayacaktır.\n\nBilgi\n\nOkunma Sayısı: 868\n\nEklenme Tarihi: 10.11.2026\n\nGüncelleme Tarihi: 13.11.2026 14:35:03\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -275,7 +275,7 @@
    "b": "KISMİ ZAMANLI ÖĞRENCİ ÇALIŞMA MÜLAKAT SONUÇLARI VE BİLGİLENDİRME TOPLANTISI",
    "u": "https://www.uludag.edu.tr/iibf/kismi-zamanli-ogrenci-calisma-mulakat-sonuclari-ve-bilgilendirme-toplantisi-100279",
    "t": "2026-11-09",
-   "i": "Fakültemiz Kısmi Zamanlı Öğrenci Kontenjanına başvuruda bulunan öğrencilere yönelik gerçekleştirilen mülakat sonuçları aşağıdaki listede belirtilmiştir.\n\nMülakat sonucunda asıl listede yer almaya hak kazanan öğrencilerimize, 17 Kasım 2026 Salı günü saat 9.00'da Dekanlık Toplantı Salonu'nda bilgilendirme toplantısı yapılacaktır.\n\nAsıl listede yer alan öğrencilerimizin toplantıya eksiksiz ve zamanında katılmaları önemle rica olunur.\n\nKısmi Zamanlı Öğrenci Listesi için TIKLAYINIZ.\n\nÖNEMLİ: Asıl listede yer alan öğrencilerimizin işe girişlerinin yapılabilmesi için aşağıda belirtilen belgeleri bizzat Sağlık Kültür ve Spor Daire Başkanlığı Destek Hizmetler Müdürlüğü Personel bürosuna teslim etmesi gerekmektedir.\n\nKISMİ ZAMANLI OLARAK ÇALIŞACAK ÖĞRENCİLER İÇİN İSTENEN BELGELER\n\n· Nüfus Kayıt Örneği (E-Devlet),\n\n· İkametgah Belgesi (E-Devlet),\n\n· Adli Sicil Kaydı (E-Devlet),\n\n· Öğrenci Belgesi (Öğrenci İşleri Islak İmzalı),\n\n· Nüfus Cüzdanı Fotokopisi (1 Adet, adres ve telefon numarası yazılacak)\n\n· Resim (1 Adet)\n\n· Sağlık Raporu (Aile Hekimliğinden)\n\n· Bursa Uludağ Üniversitesi Halk Bankası Şubesinden Banka Hesap Numarası\n\n. Sağlık Provizyon Aktivasyon Sistemi Müstehaklık Sorgulama (E-devlet üzerinden alınacaktır)\n\nBilgi\n\nOkunma Sayısı: 426\n\nEklenme Tarihi: 9.11.2026\n\nGüncelleme Tarihi: 17.11.2026 11:40:47\n\nPaylaş",
+   "i": "Fakültemiz Kısmi Zamanlı Öğrenci Kontenjanına başvuruda bulunan öğrencilere yönelik gerçekleştirilen mülakat sonuçları aşağıdaki listede belirtilmiştir.\n\nMülakat sonucunda asıl listede yer almaya hak kazanan öğrencilerimize, 17 Kasım 2026 Salı günü saat 9.00'da Dekanlık Toplantı Salonu'nda bilgilendirme toplantısı yapılacaktır.\n\nAsıl listede yer alan öğrencilerimizin toplantıya eksiksiz ve zamanında katılmaları önemle rica olunur.\n\nKısmi Zamanlı Öğrenci Listesi için TIKLAYINIZ.\n\nÖNEMLİ: Asıl listede yer alan öğrencilerimizin işe girişlerinin yapılabilmesi için aşağıda belirtilen belgeleri bizzat Sağlık Kültür ve Spor Daire Başkanlığı Destek Hizmetler Müdürlüğü Personel bürosuna teslim etmesi gerekmektedir.\n\nKISMİ ZAMANLI OLARAK ÇALIŞACAK ÖĞRENCİLER İÇİN İSTENEN BELGELER\n\n· Nüfus Kayıt Örneği (E-Devlet),\n\n· İkametgah Belgesi (E-Devlet),\n\n· Adli Sicil Kaydı (E-Devlet),\n\n· Öğrenci Belgesi (Öğrenci İşleri Islak İmzalı),\n\n· Nüfus Cüzdanı Fotokopisi (1 Adet, adres ve telefon numarası yazılacak)\n\n· Resim (1 Adet)\n\n· Sağlık Raporu (Aile Hekimliğinden)\n\n· Bursa Uludağ Üniversitesi Halk Bankası Şubesinden Banka Hesap Numarası\n\n. Sağlık Provizyon Aktivasyon Sistemi Müstehaklık Sorgulama (E-devlet üzerinden alınacaktır)\n\nBilgi\n\nOkunma Sayısı: 430\n\nEklenme Tarihi: 9.11.2026\n\nGüncelleme Tarihi: 17.11.2026 11:40:47\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -292,7 +292,7 @@
    "b": "Kısmi Zamanlı Çalışma Başvuru Şartları",
    "u": "https://www.uludag.edu.tr/iibf/kismi-zamanli-calisma-basvuru-sartlari-100278",
    "t": "2026-11-09",
-   "i": "2026-2027 Eğitim Öğretim yılında Kısmi Zamanlı çalışacak öğrencilerin son başvuru tarihi 12 Kasım 2026 olarak belirlenmiştir.\n\nKısmi Zamanlı Çalışmaya Başvuracak Öğrencilerde Aranacak Şartlar\n\nYÖK Kısmi Zamanlı Öğrenci Çalıştırma Usul ve Esasları\n\nMADDE 6\n\n(1) Yüksek Öğrenim Kredi ve Yurtlar Kurumu tarafından kendilerine burs verilmekte olan veya burs alma şartlarına haiz öğrencilere öncelik verilmek suretiyle aşağıda belirtilen şartları taşıyan öğrenciler, yükseköğretim kurumlarında kısmi zamanlı öğrenci olarak geçici işlerde çalıştırılabilir:\n\na) Tezsiz yüksek lisans öğrencisi ve özel öğrenci hariç olmak üzere, çalıştırılacağı yükseköğretim kurumunun kayıtlı öğrencisi olmak,\n\nb) Disiplin cezası almamış olmak,\n\nc) Yetim maaşı ve nafaka dışında, asgari ücret düzeyinde gelire sahip olmamak,\n\nç) Kısmi zamanlı çalıştırılan öğrenci ile yükseköğretim kurumu arasında yapılan sözleşmeye aykırılık nedeniyle sözleşmesi feshedilmemiş olmak,\n\nd) Çalıştırılacak iş için yeterli bilgi, beceri ve yeteneğe sahip olmak,\n\ne) Kayıt donduran öğrenci ve yabancı uyruklu öğrenci olmamak,\n\nf) Normal eğitim-öğretim süresi içerisinde öğrenim görüyor olmak.\n\n(2) Deprem, sel gibi doğal afetlerden zarar gördüğünü, şehit ve gazi çocuğu olduğunu belgeleyen öğrenciler ile engelli öğrencilerden normal eğitim-öğretim süresi içinde okuyor olmak, yabancı uyruklu öğrenci olmamak ve disiplin cezası almamış olmak dışında yukarıdaki şartlar aranmaz.\n\nYÜKSEKÖĞRETİM KURUMLARI KISMİ ZAMANLI ÖĞRENCİ ÇALIŞTIRMA USUL VE ESASLARI\n\nÖğrenci Danışma Bürosundan alınan Başvuru Formunun doldurulup 12 Kasım 2026 tarihine kadar Fakültemiz Evrak Kayıt Bürosuna veya Dekanlık Yazı İşleri Bürosuna elden teslim edilmesi gerekmektedir.\n\nKısmi Zamanlı Çalışma Başvuru Formu İçin Tıklayınız.\n\nBilgi\n\nOkunma Sayısı: 2846\n\nEklenme Tarihi: 9.11.2026\n\nGüncelleme Tarihi: 13.11.2026 14:34:54\n\nPaylaş",
+   "i": "2026-2027 Eğitim Öğretim yılında Kısmi Zamanlı çalışacak öğrencilerin son başvuru tarihi 12 Kasım 2026 olarak belirlenmiştir.\n\nKısmi Zamanlı Çalışmaya Başvuracak Öğrencilerde Aranacak Şartlar\n\nYÖK Kısmi Zamanlı Öğrenci Çalıştırma Usul ve Esasları\n\nMADDE 6\n\n(1) Yüksek Öğrenim Kredi ve Yurtlar Kurumu tarafından kendilerine burs verilmekte olan veya burs alma şartlarına haiz öğrencilere öncelik verilmek suretiyle aşağıda belirtilen şartları taşıyan öğrenciler, yükseköğretim kurumlarında kısmi zamanlı öğrenci olarak geçici işlerde çalıştırılabilir:\n\na) Tezsiz yüksek lisans öğrencisi ve özel öğrenci hariç olmak üzere, çalıştırılacağı yükseköğretim kurumunun kayıtlı öğrencisi olmak,\n\nb) Disiplin cezası almamış olmak,\n\nc) Yetim maaşı ve nafaka dışında, asgari ücret düzeyinde gelire sahip olmamak,\n\nç) Kısmi zamanlı çalıştırılan öğrenci ile yükseköğretim kurumu arasında yapılan sözleşmeye aykırılık nedeniyle sözleşmesi feshedilmemiş olmak,\n\nd) Çalıştırılacak iş için yeterli bilgi, beceri ve yeteneğe sahip olmak,\n\ne) Kayıt donduran öğrenci ve yabancı uyruklu öğrenci olmamak,\n\nf) Normal eğitim-öğretim süresi içerisinde öğrenim görüyor olmak.\n\n(2) Deprem, sel gibi doğal afetlerden zarar gördüğünü, şehit ve gazi çocuğu olduğunu belgeleyen öğrenciler ile engelli öğrencilerden normal eğitim-öğretim süresi içinde okuyor olmak, yabancı uyruklu öğrenci olmamak ve disiplin cezası almamış olmak dışında yukarıdaki şartlar aranmaz.\n\nYÜKSEKÖĞRETİM KURUMLARI KISMİ ZAMANLI ÖĞRENCİ ÇALIŞTIRMA USUL VE ESASLARI\n\nÖğrenci Danışma Bürosundan alınan Başvuru Formunun doldurulup 12 Kasım 2026 tarihine kadar Fakültemiz Evrak Kayıt Bürosuna veya Dekanlık Yazı İşleri Bürosuna elden teslim edilmesi gerekmektedir.\n\nKısmi Zamanlı Çalışma Başvuru Formu İçin Tıklayınız.\n\nBilgi\n\nOkunma Sayısı: 2852\n\nEklenme Tarihi: 9.11.2026\n\nGüncelleme Tarihi: 13.11.2026 14:34:54\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
@@ -313,7 +313,7 @@
    "b": "TÜRK DİLİ / ATATÜRK İLKELERİ VE INKILAP TARİHİ / YABANCI DİL DERSLERİ GÜZ YARIYILI ARASINAV PROGRAMI",
    "u": "https://www.uludag.edu.tr/iibf/turk-dili-ataturk-ilkeleri-ve-inkilap-tarihi-yabanci-dil-dersleri-guz-yariyili-arasinav-program-100058",
    "t": "2026-11-02",
-   "i": "TÜRK DİLİ DERSİ GÜZ YARIYILI ARASINAV PROGRAMI İÇİN TIKLAYINIZ\n\nATATÜRK İLKELERİ VE INKILAP TARİHİ DERSİ GÜZ YARIYILI ARASINAV PROGRAMI İÇİN TIKLAYINIZ\n\nYA BANCI DİLLER DERSİ GÜZ YARIYILI ARASINAV PROGRAMI İÇİN TIKLAYINIZ\n\nBilgi\n\nOkunma Sayısı: 1924\n\nEklenme Tarihi: 2.11.2026\n\nGüncelleme Tarihi: 27.11.2026 10:36:51\n\nPaylaş",
+   "i": "TÜRK DİLİ DERSİ GÜZ YARIYILI ARASINAV PROGRAMI İÇİN TIKLAYINIZ\n\nATATÜRK İLKELERİ VE INKILAP TARİHİ DERSİ GÜZ YARIYILI ARASINAV PROGRAMI İÇİN TIKLAYINIZ\n\nYA BANCI DİLLER DERSİ GÜZ YARIYILI ARASINAV PROGRAMI İÇİN TIKLAYINIZ\n\nBilgi\n\nOkunma Sayısı: 1933\n\nEklenme Tarihi: 2.11.2026\n\nGüncelleme Tarihi: 27.11.2026 10:36:51\n\nPaylaş",
    "e": [
     [
      "FAKÜLTE TARİHÇESİ",
